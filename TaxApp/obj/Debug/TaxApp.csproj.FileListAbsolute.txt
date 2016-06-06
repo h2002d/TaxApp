@@ -1,0 +1,19 @@
+c:\users\user pc\documents\visual studio 2013\Projects\TaxApp\TaxApp\bin\Debug\TaxApp.exe.config
+c:\users\user pc\documents\visual studio 2013\Projects\TaxApp\TaxApp\bin\Debug\TaxApp.exe
+c:\users\user pc\documents\visual studio 2013\Projects\TaxApp\TaxApp\bin\Debug\TaxApp.pdb
+c:\users\user pc\documents\visual studio 2013\Projects\TaxApp\TaxApp\obj\Debug\TaxApp.csprojResolveAssemblyReference.cache
+c:\users\user pc\documents\visual studio 2013\Projects\TaxApp\TaxApp\obj\Debug\TaxApp.Form1.resources
+c:\users\user pc\documents\visual studio 2013\Projects\TaxApp\TaxApp\obj\Debug\TaxApp.Properties.Resources.resources
+c:\users\user pc\documents\visual studio 2013\Projects\TaxApp\TaxApp\obj\Debug\TaxApp.csproj.GenerateResource.Cache
+c:\users\user pc\documents\visual studio 2013\Projects\TaxApp\TaxApp\obj\Debug\TaxApp.exe
+c:\users\user pc\documents\visual studio 2013\Projects\TaxApp\TaxApp\obj\Debug\TaxApp.pdb
+C:\Project Files\TaxApp\TaxApp\bin\Debug\TaxApp.exe.config
+C:\Project Files\TaxApp\TaxApp\obj\Debug\TaxApp.exe
+C:\Project Files\TaxApp\TaxApp\obj\Debug\TaxApp.pdb
+C:\Project Files\TaxApp\TaxApp\bin\Debug\TaxApp.exe
+C:\Project Files\TaxApp\TaxApp\bin\Debug\TaxApp.pdb
+C:\Project Files\TaxApp\TaxApp\obj\Debug\TaxApp.Form1.resources
+C:\Project Files\TaxApp\TaxApp\obj\Debug\TaxApp.Properties.Resources.resources
+C:\Project Files\TaxApp\TaxApp\obj\Debug\TaxApp.csproj.GenerateResource.Cache
+C:\Project Files\TaxApp\TaxApp\bin\Debug\bin\Debug\Database1.accdb
+C:\Project Files\TaxApp\TaxApp\obj\Debug\TaxApp.csprojResolveAssemblyReference.cache
